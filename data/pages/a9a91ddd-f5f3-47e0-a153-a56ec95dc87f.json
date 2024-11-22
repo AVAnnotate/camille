@@ -1,9 +1,28 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "image",
+      "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCamille_%25281921_film%2529&psig=AOvVaw1ERCqxTPQNkZ7DkxnAoG0S&ust=1732391010271000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCNu8jZ8IkDFQAAAAAdAAAAABAY",
+      "size": "large",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2024-11-22T19:29:49.217Z",
   "created_by": "saamturner",
   "title": "Camille 1921",
-  "updated_at": "2024-11-22T19:43:00.098Z",
+  "updated_at": "2024-11-22T19:44:13.011Z",
   "updated_by": "saamturner",
   "autogenerate": {
     "enabled": false,
