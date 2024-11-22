@@ -149,7 +149,7 @@
                   "text": ""
                 }
               ],
-              "align": "center"
+              "align": "right"
             },
             {
               "type": "image",
@@ -160,7 +160,7 @@
                   "text": ""
                 }
               ],
-              "align": "center"
+              "align": "right"
             },
             {
               "type": "paragraph",
@@ -169,7 +169,7 @@
                   "text": ""
                 }
               ],
-              "align": "center"
+              "align": "right"
             },
             {
               "type": "paragraph",
@@ -178,7 +178,7 @@
                   "text": ""
                 }
               ],
-              "align": "center"
+              "align": "right"
             },
             {
               "type": "image",
@@ -189,7 +189,7 @@
                   "text": ""
                 }
               ],
-              "align": "center"
+              "align": "right"
             },
             {
               "type": "paragraph",
@@ -198,7 +198,7 @@
                   "text": ""
                 }
               ],
-              "align": "center"
+              "align": "right"
             },
             {
               "type": "paragraph",
@@ -207,7 +207,7 @@
                   "text": ""
                 }
               ],
-              "align": "center"
+              "align": "right"
             },
             {
               "type": "image",
@@ -218,7 +218,7 @@
                   "text": ""
                 }
               ],
-              "align": "center"
+              "align": "right"
             },
             {
               "type": "paragraph",
@@ -227,7 +227,7 @@
                   "text": ""
                 }
               ],
-              "align": "center"
+              "align": "right"
             }
           ]
         }
@@ -245,7 +245,7 @@
   "created_at": "2024-11-22T19:29:49.217Z",
   "created_by": "saamturner",
   "title": "Introduction to Camille (1921)",
-  "updated_at": "2024-11-22T20:11:26.817Z",
+  "updated_at": "2024-11-22T20:15:00.024Z",
   "updated_by": "saamturner",
   "autogenerate": {
     "enabled": false,
