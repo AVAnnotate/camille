@@ -1,12 +1,194 @@
 {
   "content": [
     {
-      "type": "image",
-      "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCamille_%25281921_film%2529&psig=AOvVaw1ERCqxTPQNkZ7DkxnAoG0S&ust=1732391010271000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCNu8jZ8IkDFQAAAAAdAAAAABAY",
-      "size": "large",
+      "type": "paragraph",
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For this AVAnnotate research use case, I created annotations for the entire silent film "
+                },
+                {
+                  "text": "Camille",
+                  "italic": true
+                },
+                {
+                  "text": " (1921), produced by Alla Nazimova and starring Nazimova and Rudolph Valentino. These annotations include a transcription of the dialogue, notes about the physical damade to the film copy, and editorial commentary on filmmaking choices, editing techniques, and special effects. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "These annotations support my research as I write my MA thesis chapter, \"Alla Nazimova, The Sewing Circle, and Silent Era Lesbian Reception,\" which discusses Nazimova’s impact on the early Hollywood film industry and audiences from a queer perspective. However, these annotations also serve a larger function: preservation of silent film is very important as the majority of films from that era (90%) are lost. This project serves as an interactive document of the film’s credits, script, damage to the film used to make this digital copy, and the techniques used in the film. The act of annotating this film has also added to my experience of silent film and the editing techniques of the silent era, revealing a queer temporality in the annotation process itself. The next two paragraphs summarize some background information on the film from my thesis chapter, which may help contextualize the annotations I present in this project."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Camille ",
+                  "italic": true
+                },
+                {
+                  "text": "(1921) was produced by Nazimova Productions and stars Alla Nazimova as Marguerite Gautier and Rudolph Valentino as Armand Duval. Natacha Rambova, who would become Valentino’s second wife, was the art director. June Mathis wrote this screen adaptation of Alexandre Dumas "
+                },
+                {
+                  "text": "fils",
+                  "italic": true
+                },
+                {
+                  "text": "'s original story. The film follows courtesan Marguerite as she falls in love with Armand and struggles with tuberculosis. "
+                },
+                {
+                  "text": "Camille ",
+                  "italic": true
+                },
+                {
+                  "text": "was the last film Nazimova made for MGM before she left to pursue independent productions, a decision that ended her film career prematurely. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Although the film was submitted and passed by the National Board of Review in 1921, it probably wouldn’t have passed the later Hollywood Production Code of 1934 without significant edits due to the very thinly veiled suggestions of prostitution throughout the film. Marguerite is a prostitute who seems to enjoy or at least take some pleasure in her lifestyle before she contracts tuberculosis. She does both give up her lover and eventually die alone, but the implications of prostitution are still probably too overt for future censors. The film also has several scenes with same-sex kisses between Marguerite and Nichette (Patsy Ruth Miller), an act that was allowed in silent and pre-Code films but is almost never seen after 1934. Although the kisses are played off as friendly pecks, the lesbian subtext of this relationship is clear to savvy audiences. This subtext along with Rambova’s designs and the queer personas of Valentino and Nazimova cement the film’s place as an artifact of queer cinema history."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Valentino was relatively unknown when Nazimova hand picked him to play Armand Duval in the film. By the time the film released however, he had gained overnight stardom through his role in "
+                },
+                {
+                  "text": "The Sheik",
+                  "italic": true
+                },
+                {
+                  "text": ", which helped make Camille a big box office success. Today, Valentino is seen as a gay icon, most notably due to speculation in Kenneth Anger’s sensational "
+                },
+                {
+                  "text": "Hollywood Babylon",
+                  "italic": true
+                },
+                {
+                  "text": " which was riddled with inaccuracies. However, at the height of his fame, Valentino had an androgynous star persona and a large audience of primarily young women. In Queer Timing, author Susan Potter posits the idea that Valentino’s stardom had a queer appeal to his female audience instead of only focusing on the potential heterosexual fantasies of many of his female fans (Potter 123). There is a level of identification that lesbian audiences felt watching Valentino that has not been explored in most discussions of his star persona. The androgyny and sexual difference of Nazimova and Valentino on screen together coupled with the sets and costumes of Rambova and the queer subtext in the film all contribue to a meaningful feat of early queer cinema."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://cache.getarchive.net/Prod/thumb/cdn2/L3Bob3RvLzE5MjEvMTIvMzEvYmxhY2stYW5kLXdoaXRlLWFkdmVydGlzZW1lbnQtZm9yLWNhbWlsbGUtcGFydC1vbmUtOTY1OTczLTEwMjQuanBn/240/332/webp",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://cache.getarchive.net/Prod/thumb/cdn2/L3Bob3RvLzE5MjEvMDkvMjQvY2FtaWxsZS0xOTIxLWFkdmVydGlzZW1lbnQtMi0xMWU1ODgtMTAyNC5qcGc%3D/240/337/webp",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://cache.getarchive.net/Prod/thumb/cdn2/L3Bob3RvLzE5MjIvMDMvMDMvY2FtaWxsZS1uZXdzcGFwYWVyYWQxOTIyLTlkNmNlMi0xMDI0LmpwZw%3D%3D/240/331/webp",
+              "size": "full",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -21,11 +203,12 @@
   ],
   "created_at": "2024-11-22T19:29:49.217Z",
   "created_by": "saamturner",
-  "title": "Camille 1921",
-  "updated_at": "2024-11-22T19:44:13.011Z",
+  "title": "Introduction to Camille (1921)",
+  "updated_at": "2024-11-22T19:57:04.868Z",
   "updated_by": "saamturner",
   "autogenerate": {
     "enabled": false,
     "type": "home"
-  }
+  },
+  "slug": "introduction-to-camille-1921"
 }
