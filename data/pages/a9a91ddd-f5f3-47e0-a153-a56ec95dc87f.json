@@ -29,7 +29,15 @@
                   "italic": true
                 },
                 {
-                  "text": " (1921), produced by Alla Nazimova and starring Nazimova and Rudolph Valentino. These annotations include a transcription of the dialogue, notes about the physical damade to the film copy, and editorial commentary on filmmaking choices, editing techniques, and special effects. "
+                  "text": " (1921), produced by Alla Nazimova and starring Nazimova and Rudolph Valentino. These annotations include a transcription of the dialogue, notes about the physical damade to the film copy, and editorial commentary on filmmaking choices, editing techniques, and special effects."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " "
                 }
               ]
             },
@@ -38,6 +46,14 @@
               "children": [
                 {
                   "text": "These annotations support my research as I write my MA thesis chapter, \"Alla Nazimova, The Sewing Circle, and Silent Era Lesbian Reception,\" which discusses Nazimova’s impact on the early Hollywood film industry and audiences from a queer perspective. However, these annotations also serve a larger function: preservation of silent film is very important as the majority of films from that era (90%) are lost. This project serves as an interactive document of the film’s credits, script, damage to the film used to make this digital copy, and the techniques used in the film. The act of annotating this film has also added to my experience of silent film and the editing techniques of the silent era, revealing a queer temporality in the annotation process itself. The next two paragraphs summarize some background information on the film from my thesis chapter, which may help contextualize the annotations I present in this project."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -71,7 +87,23 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "Although the film was submitted and passed by the National Board of Review in 1921, it probably wouldn’t have passed the later Hollywood Production Code of 1934 without significant edits due to the very thinly veiled suggestions of prostitution throughout the film. Marguerite is a prostitute who seems to enjoy or at least take some pleasure in her lifestyle before she contracts tuberculosis. She does both give up her lover and eventually die alone, but the implications of prostitution are still probably too overt for future censors. The film also has several scenes with same-sex kisses between Marguerite and Nichette (Patsy Ruth Miller), an act that was allowed in silent and pre-Code films but is almost never seen after 1934. Although the kisses are played off as friendly pecks, the lesbian subtext of this relationship is clear to savvy audiences. This subtext along with Rambova’s designs and the queer personas of Valentino and Nazimova cement the film’s place as an artifact of queer cinema history."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -116,7 +148,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "align": "center"
             },
             {
               "type": "image",
@@ -126,7 +159,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "align": "center"
             },
             {
               "type": "paragraph",
@@ -134,7 +168,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "align": "center"
             },
             {
               "type": "paragraph",
@@ -142,7 +177,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "align": "center"
             },
             {
               "type": "image",
@@ -152,7 +188,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "align": "center"
             },
             {
               "type": "paragraph",
@@ -160,7 +197,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "align": "center"
             },
             {
               "type": "paragraph",
@@ -168,7 +206,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "align": "center"
             },
             {
               "type": "image",
@@ -178,7 +217,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "align": "center"
             },
             {
               "type": "paragraph",
@@ -186,7 +226,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "align": "center"
             }
           ]
         }
@@ -204,7 +245,7 @@
   "created_at": "2024-11-22T19:29:49.217Z",
   "created_by": "saamturner",
   "title": "Introduction to Camille (1921)",
-  "updated_at": "2024-11-22T19:57:04.868Z",
+  "updated_at": "2024-11-22T20:11:26.817Z",
   "updated_by": "saamturner",
   "autogenerate": {
     "enabled": false,
