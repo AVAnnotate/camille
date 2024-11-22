@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-11-22T19:42:00.240Z",
+  "created_by": "saamturner",
+  "title": "Camille (1921)",
+  "slug": "camille-1921",
+  "updated_at": "2024-11-22T19:42:00.240Z",
+  "updated_by": "saamturner",
+  "parent": "a9a91ddd-f5f3-47e0-a153-a56ec95dc87f",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "b1a0a08c-2464-4560-88d4-f2af3f922ec3"
+  }
+}
