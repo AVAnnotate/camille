@@ -1,1 +1,87 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"AVAnnotate","is_private":false,"title":"Annotating Camille (1921)","description":"This project provides contextual annotations and commentary about the American silent film, \"Camille,\" directed by and starring Alla Nazimova alongside Rudolph Valentino. \"Camille\" (1921) is an adaptation of a French romance novel by Alexandre Dumas fils (\"La Dame aux Camélias,\" 1848). \n\nThe annotations and prose included in this project were originally part of J. Reinschmidt's MA thesis chapter “Alla Nazimova, The Sewing Circle, and Silent Era Lesbian Reception,” which used AVAnnotate as a research use case to support Reinschmidt's argument about Nazimova’s impact on the early Hollywood film industry and audiences.","language":"en","slug":"camille","creator":"saamturner","authors":"J. Reinschmidt (author), Leiah Bodden (editor) ","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"color":"#B3B3E6","category":"Physical Condition"},{"color":"#FCB55F","category":"Visual Elements"},{"color":"#99E6FF","category":"Textual Elements"}],"tags":[{"category":"Visual Elements","tag":"Effects"},{"category":"Visual Elements","tag":"Book cover"},{"category":"Visual Elements","tag":"Inscription and translation"},{"category":"Visual Elements","tag":"Effect"},{"category":"Visual Elements","tag":"Transcription"},{"category":"Visual Elements","tag":"Dialoge"},{"category":"Visual Elements","tag":"Damge"},{"category":"Textual Elements","tag":"Intertitles"},{"category":"Textual Elements","tag":"Opening titles"},{"category":"Textual Elements","tag":"Comments"},{"category":"Textual Elements","tag":"Dialogue"},{"category":"Physical Condition","tag":"Damage"}]},"created_at":"2024-11-22T19:29:49.192Z","updated_at":"2024-11-25T18:25:22.219Z","generate_pages_site":true},"is_private":false}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "AVAnnotate",
+    "is_private": false,
+    "title": "Annotating Camille (1921)",
+    "description": "This project provides contextual annotations and commentary about the American silent film, \"Camille,\" directed by and starring Alla Nazimova alongside Rudolph Valentino. \"Camille\" (1921) is an adaptation of a French romance novel by Alexandre Dumas fils (\"La Dame aux Camélias,\" 1848). \n\nThe annotations and prose included in this project were originally part of J. Reinschmidt's MA thesis chapter “Alla Nazimova, The Sewing Circle, and Silent Era Lesbian Reception,” which used AVAnnotate as a research use case to support Reinschmidt's argument about Nazimova’s impact on the early Hollywood film industry and audiences.",
+    "language": "en",
+    "slug": "camille",
+    "creator": "saamturner",
+    "authors": "J. Reinschmidt (author), Leiah Bodden (editor) ",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#B3B3E6",
+          "category": "Physical Condition"
+        },
+        {
+          "color": "#FCB55F",
+          "category": "Visual Elements"
+        },
+        {
+          "color": "#99E6FF",
+          "category": "Textual Elements"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Visual Elements",
+          "tag": "Effects"
+        },
+        {
+          "category": "Visual Elements",
+          "tag": "Book cover"
+        },
+        {
+          "category": "Visual Elements",
+          "tag": "Inscription and translation"
+        },
+        {
+          "category": "Visual Elements",
+          "tag": "Effect"
+        },
+        {
+          "category": "Visual Elements",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Visual Elements",
+          "tag": "Damge"
+        },
+        {
+          "category": "Textual Elements",
+          "tag": "Intertitles"
+        },
+        {
+          "category": "Textual Elements",
+          "tag": "Opening titles"
+        },
+        {
+          "category": "Textual Elements",
+          "tag": "Comments"
+        },
+        {
+          "category": "Textual Elements",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Physical Condition",
+          "tag": "Damage"
+        }
+      ]
+    },
+    "created_at": "2024-11-22T19:29:49.192Z",
+    "updated_at": "2024-11-25T18:26:27.403Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
