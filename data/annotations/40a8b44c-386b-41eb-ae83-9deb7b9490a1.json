@@ -1,5 +1,3639 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Metro presents Nazimova in a modernized version of Camille By Alexandre Dumas, fils. Copyright 1921 by Metro Pictures Corporations Controlled by Loew Incorporated"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Opening titles"
+        }
+      ],
+      "uuid": "7e669fc9-14bf-4366-b3fd-b86da5ff2c72"
+    },
+    {
+      "start_time": 14,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Directed by Ray C. Smallwood"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Opening titles"
+        }
+      ],
+      "uuid": "8cae5a4f-bc9e-4b7f-bcfd-eb537bbbf4a4"
+    },
+    {
+      "start_time": 21,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Written for the screen by June Mathis"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Opening titles"
+        }
+      ],
+      "uuid": "fdb87fa0-b695-48a7-8d4a-49cd336885e9"
+    },
+    {
+      "start_time": 30,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Art Director Natasha Rambova PhotoGaston Rieuxaphed by R. J. Berquist member A.S.C."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Opening titles"
+        }
+      ],
+      "uuid": "af28cff4-3e87-4c17-82e1-ededc27eb1e5"
+    },
+    {
+      "start_time": 35,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A Nazimova Production Released through Metro Pictures Corporation Passed by the National Board of Review"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Opening titles"
+        }
+      ],
+      "uuid": "3c743c7d-c39c-45e3-a06b-a0a5d590915b"
+    },
+    {
+      "start_time": 47,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "CAST"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Opening titles"
+        }
+      ],
+      "uuid": "1fb605c7-24f9-4fc6-8ac9-ca2d61a73b7d"
+    },
+    {
+      "start_time": 71,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camille! What a magic conjuring of players who have portrayed Dumas' immortal \"Daughter of Chance.\" And with them comes to mind the thought of basque and crinoline."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "9c451dfb-a571-474e-8e1f-d3b2d2a33226"
+    },
+    {
+      "start_time": 87,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But why not a Camille of today? Living the same story in this generation?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "add8ba15-fe03-4c5e-ab34-ef3999815be1"
+    },
+    {
+      "start_time": 99,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Winter. Paris, magic city of pleasure, yet beneath its tinseled gaiety throbbing with life's Gaston Rieuxim note of passion and tragedy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "6ae1d84f-ca49-42e9-85e3-298b16bcf7b5"
+    },
+    {
+      "start_time": 114,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iris transition"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "8ab02b45-912d-4e92-9afe-3cc2223e093d"
+    },
+    {
+      "start_time": 127,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was all new to Armand Duval who had just come from the provinces. ...Rudolph Valentino"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "5de6cc5b-8f78-459f-a18b-c1357c06b243"
+    },
+    {
+      "start_time": 140,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But his boyhood friend, Gaston Rieux, had Gaston Rieux own blasé. ...Rex Cherryman"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "cbc9e0a8-d0b9-4b5a-83c4-f3b7a02eee58"
+    },
+    {
+      "start_time": 152,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova's entrance"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "300f4673-8a00-4d0d-8d13-6130d84bee14"
+    },
+    {
+      "start_time": 162,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Lady with the Camellias. She was a useless ornament--a plaything--a bird of passage--a momentary aurora. Marguerite Gautier, Nazimova"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "8d88d145-7c73-4758-b6f0-98d4dc782892"
+    },
+    {
+      "start_time": 190,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gaston Rieux: \"There is 'the Lady with the Camellias' with the Count de VaRudolph Valentinoille. She is evidently playing for higher stakes. The old Duke is getting his congé.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "d5a605dd-14cb-455b-b452-0ddb74fda2ba"
+    },
+    {
+      "start_time": 227,
+      "end_time": 229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"You really know her, Gaston?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "d94784e4-5446-4144-9162-05c4fcd35737"
+    },
+    {
+      "start_time": 232,
+      "end_time": 235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gaston Rieux: Would you like to meet her?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "fc6dc662-dd0a-4533-8e91-71c9b066dc2f"
+    },
+    {
+      "start_time": 263,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gaston Rieux: \"Permit me to introduce a fellow law student.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "2b08d072-6bb4-4c71-9def-7e0b70599d6c"
+    },
+    {
+      "start_time": 276,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"A law student? He'd do better to study love!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "3b6b7830-f62b-4c77-9338-230f1f44608d"
+    },
+    {
+      "start_time": 291,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A view of Rambova's full opening set"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "50a500ec-be88-4b82-836f-24caed6dd200"
+    },
+    {
+      "start_time": 307,
+      "end_time": 315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prudence was a sponger on her younger and more successful sisters. ...Zeffie Tilbury"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "057f4db1-3d80-443c-8462-a7210f89a7b9"
+    },
+    {
+      "start_time": 317,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gaston, take me home!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "d3b0de41-b9bc-4445-943b-103b2b67df36"
+    },
+    {
+      "start_time": 329,
+      "end_time": 334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marguerite is giving a supper party--let's drop in and surprise her!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "3291f18c-a31a-4798-b2ba-7d35b2a8354e"
+    },
+    {
+      "start_time": 374,
+      "end_time": 377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iris transition"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "ec3c1680-efe9-4518-8722-9fd57cde1568"
+    },
+    {
+      "start_time": 393,
+      "end_time": 405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Full view of Rambova set 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "65509600-b6d0-45ce-8936-8004d5100553"
+    },
+    {
+      "start_time": 413,
+      "end_time": 416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"Not until you put a jewel in my hand.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "a3d4bdc1-3eef-48d5-98d9-584c59006f4f"
+    },
+    {
+      "start_time": 440,
+      "end_time": 448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nazimova close up, tone shift when Marguerite is alone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "22225ce4-d943-4682-8382-680a88f23893"
+    },
+    {
+      "start_time": 463,
+      "end_time": 471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Madame, you are ill! You should not have gone out--send them away and call the doctor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "3f7de8b7-77aa-4bfe-8d19-a57eadfd62c8"
+    },
+    {
+      "start_time": 477,
+      "end_time": 483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"What does it matter, Nanine? Who is there to care whether I live or not?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "a5b74af0-13e7-40a9-8838-aa405c80d192"
+    },
+    {
+      "start_time": 503,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nazimova mirror med shot"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "669a1030-1d39-441b-963a-33c7073527bd"
+    },
+    {
+      "start_time": 556,
+      "end_time": 560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Poor boy--he is mad about you!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "9764f36b-9ebe-42be-a95e-1eb062c9871e"
+    },
+    {
+      "start_time": 566,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nazimova close up"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "6ab6f6f4-a9c7-43e9-bf34-996f5c41011e"
+    },
+    {
+      "start_time": 570,
+      "end_time": 574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"Not until you put a jewel in my hand.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "5ec4974b-709c-425a-90d4-d9d36a1ed2d1"
+    },
+    {
+      "start_time": 616,
+      "end_time": 624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"Let us drink to the Count whose wine we spill-- Who never objects to footing the bill--\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "c9bcbc8e-d433-4584-b29c-3ba9e9b3feab"
+    },
+    {
+      "start_time": 631,
+      "end_time": 636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"Who is very persistent in his attentions-- Yet never conceals his-- intentions!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "9cd4fc51-4a58-40a4-8827-fa2cf00ffbf8"
+    },
+    {
+      "start_time": 645,
+      "end_time": 650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Valentino close up"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "7928863d-1a4b-44ee-9ef7-09f791829de9"
+    },
+    {
+      "start_time": 677,
+      "end_time": 688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"A simple little girl from Bordeaux: Hair, eyes and feet--just so! /Modest little ways--dear little Clo! /The simple little girl from Bordeaux.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "0c97f377-ba4d-4576-b394-84b10c5a7889"
+    },
+    {
+      "start_time": 692,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Valentino close up"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "d527bd22-d360-4b20-b7d5-2882b4a16836"
+    },
+    {
+      "start_time": 711,
+      "end_time": 723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: Here just a year--everyone's dear!/ Motors, jewels, clothes--oh! ho!/ Are her eyes and feet--just so?/ Naughty little Clo--Clo from Bordeaux!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "5c2ff989-1d04-4a38-b3c4-92717e2bf350"
+    },
+    {
+      "start_time": 754,
+      "end_time": 758,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lesbian subtext, same sex kiss with Marguerite and Nichette"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "9a890b7c-529d-4ae2-b823-48e14f44d069"
+    },
+    {
+      "start_time": 764,
+      "end_time": 771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, it is only Nichette! She used to work in the dressmaking shop with Marguerite."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "c322b2e9-1087-4e45-851c-9ba90d3cfdfa"
+    },
+    {
+      "start_time": 774,
+      "end_time": 776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marguerite and Nichette"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "c4f4203b-8f8f-4bc7-b513-2c57a0f2502d"
+    },
+    {
+      "start_time": 783,
+      "end_time": 835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marguerite and Nichette, second kiss and subtext"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "e21a5bf9-7848-4ede-bcdc-542f8a443545"
+    },
+    {
+      "start_time": 797,
+      "end_time": 802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"Take your hands off--she is too good for you!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "dc005d92-15b1-4ea9-bf77-e3dc9e5ba07c"
+    },
+    {
+      "start_time": 848,
+      "end_time": 851,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marguerite/Nichette third & fourth kiss"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "e29dd9fc-001d-475f-b11a-bcbbad0e7b75"
+    },
+    {
+      "start_time": 937,
+      "end_time": 939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"She is ill!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "ee8f8cd2-436a-46a7-9e71-501908fd0870"
+    },
+    {
+      "start_time": 941,
+      "end_time": 951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She is always ill! Just when we are enjoying ourselves, on comes that cough and our fun is spoiled!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "40c36c11-828e-4df1-953a-6eb6d3768a80"
+    },
+    {
+      "start_time": 978,
+      "end_time": 982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"You are ill! Let me send for the doctor!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "664c35d8-2ba2-4932-b38b-38c451f9b805"
+    },
+    {
+      "start_time": 992,
+      "end_time": 996,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"It is nothing--see how the others concern themselves!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "f732e851-e3b3-477a-8905-017e586aa170"
+    },
+    {
+      "start_time": 1006,
+      "end_time": 1012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"You are different! This life is unworthy of you--it is killing you!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "2c00450a-b9ad-43bd-83aa-411b64ec391f"
+    },
+    {
+      "start_time": 1029,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"You know who--what I am? Go home--forget that we have ever met.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "01eee322-6feb-4fbc-bb68-8587a8afd5cd"
+    },
+    {
+      "start_time": 1043,
+      "end_time": 1053,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"I wish I were a relative--your seRudolph Valentinoant--a dog--that I might care for you--nurse you--make you well!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "0f97d320-9ab2-42a4-b345-61275bb43009"
+    },
+    {
+      "start_time": 1064,
+      "end_time": 1071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"My life is not for long and short as it may be, it would outlive your love.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "f7273c82-fefb-4ce7-92bf-df2d197bea4c"
+    },
+    {
+      "start_time": 1076,
+      "end_time": 1087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"This is no foolish fancy! Give me a chance to prove my devotion! Since I saw you this evening, nothing else seems to matter!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "9b4b8a5b-9c7b-43c8-b2b2-9e49280d1e8f"
+    },
+    {
+      "start_time": 1123,
+      "end_time": 1134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"My symbol, Armand--a camellia. Cherished, its beauty will excel the loveliest flower, but wound it with the slightest touch and it will die.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "d64dfd35-07a2-4fa9-81fe-9139428512c3"
+    },
+    {
+      "start_time": 1210,
+      "end_time": 1214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"Go! Go and take your sponging pack with you!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "194f68fe-2b78-4bfb-9f00-c00701d1b29c"
+    },
+    {
+      "start_time": 1230,
+      "end_time": 1233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Leave her alone--she's drunk!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "5e6f6910-8648-471c-b493-5fb12c9f54ab"
+    },
+    {
+      "start_time": 1293,
+      "end_time": 1297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iris transition"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "06066180-715f-4cd2-bf21-693aeeacf354"
+    },
+    {
+      "start_time": 1299,
+      "end_time": 1310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Spring. Away from the old life, Armand's tender care proved that love is the Gaston Rieuxeatest doctor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "f277c4a1-6f47-4233-8aae-752b626bde1b"
+    },
+    {
+      "start_time": 1312,
+      "end_time": 1316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Off center iris transition"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Efffects"
+        }
+      ],
+      "uuid": "09b0dcf5-f471-4e36-a860-ddf96ba1d23a"
+    },
+    {
+      "start_time": 1331,
+      "end_time": 1334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interesting vignette of bell tower"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "1854f598-eef1-4079-9d58-49d568925ea8"
+    },
+    {
+      "start_time": 1354,
+      "end_time": 1356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Manon Lescaut"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Book cover"
+        }
+      ],
+      "uuid": "7d3f2fe9-27aa-4d29-87de-9c1c0a9c68fd"
+    },
+    {
+      "start_time": 1378,
+      "end_time": 1385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Manon a Marguerite, humilite, Armand Duval / Manon to Marguerite, humility, Armand Duval"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inscription and translation"
+        }
+      ],
+      "uuid": "c4e1e50c-8fcc-401f-870d-4820bc36c05b"
+    },
+    {
+      "start_time": 1411,
+      "end_time": 1422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino, reading: And so Marguerite heard the story of Manon Lescaut, child of passion, exiled to the New World with the scum of Paris--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "9f24e72e-5b22-47a3-a071-c1b5476e5032"
+    },
+    {
+      "start_time": 1425,
+      "end_time": 1427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dissolve (to images from the story)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "bbb56841-472c-4182-8d4c-d9d0feeee15d"
+    },
+    {
+      "start_time": 1441,
+      "end_time": 1449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "#NAME?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "b5d9bab2-901e-4a77-84f2-924e1c99303a"
+    },
+    {
+      "start_time": 1468,
+      "end_time": 1469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dissolve"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "d0a1b324-4864-44bc-bb71-3b669c8fb753"
+    },
+    {
+      "start_time": 1478,
+      "end_time": 1484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Over Marguerite fell the shadow of a vague presentiment. She was Manon and Armand was--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "45781c5c-0e37-4028-a274-81ebbffefa87"
+    },
+    {
+      "start_time": 1489,
+      "end_time": 1492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dissolve back to story"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "9787f8e8-adf8-41ba-84dc-fe0e3fdcb5a8"
+    },
+    {
+      "start_time": 1506,
+      "end_time": 1511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova as Manon: \"Why follow me, beloved? I am now the lowest of the low.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "39c3b409-51b1-4ee3-b0c4-304b979dfa31"
+    },
+    {
+      "start_time": 1518,
+      "end_time": 1526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"I will gladly lay my honor at thy feet and follow the to the end of the world.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "3c66d9ac-3c96-41aa-bbd6-b4757ee7e7ca"
+    },
+    {
+      "start_time": 1544,
+      "end_time": 1546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Valentino kisses sword"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "4afb08ef-c256-4547-b339-bcd596362669"
+    },
+    {
+      "start_time": 1562,
+      "end_time": 1563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dissolve"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "bc881ceb-8971-4371-ba2b-311cfdb8ad5c"
+    },
+    {
+      "start_time": 1579,
+      "end_time": 1585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"I could never chain you to my past, Armand--drag you down--never!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "1ba27e75-cec5-4527-8fe7-d995afc6bbaa"
+    },
+    {
+      "start_time": 1599,
+      "end_time": 1605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nichette is back and Marguerite kisses her on the mouth Again"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "1687f0a7-735f-4382-9980-d3c8783fdd00"
+    },
+    {
+      "start_time": 1617,
+      "end_time": 1626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nichette has made me go to work. As soon as I can earn enough money, we will be married."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "9436f0e8-0618-4b6b-9cb8-0e95219a9a14"
+    },
+    {
+      "start_time": 1633,
+      "end_time": 1638,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nichette: \"You will wear one some day.\" [Alla Nazimova, mouthing: \"Me?\"]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "3b1b4896-cb17-4f04-86dc-26cf8cccae9b"
+    },
+    {
+      "start_time": 1646,
+      "end_time": 1648,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Light damage to the film print here"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Damage"
+        }
+      ],
+      "uuid": "9c6b4af2-18f0-440a-931a-f1d04cb28e77"
+    },
+    {
+      "start_time": 1650,
+      "end_time": 1652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Huge tear/nitrate decay"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Damage"
+        }
+      ],
+      "uuid": "cb48114b-42d5-4ca4-905e-a9b0355d783b"
+    },
+    {
+      "start_time": 1652,
+      "end_time": 1675,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interesting snow effect begins"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effect"
+        }
+      ],
+      "uuid": "c1cb1e8d-a3a1-45cd-9273-054feabef201"
+    },
+    {
+      "start_time": 1655,
+      "end_time": 1656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Book titled: Manon lescaut"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "c49e1182-90b0-4449-b004-3505af6be403"
+    },
+    {
+      "start_time": 1666,
+      "end_time": 1669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"No, no--not that!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialoge"
+        }
+      ],
+      "uuid": "c9b742a5-dcaf-4e44-bcc4-4d14e16591b2"
+    },
+    {
+      "start_time": 1680,
+      "end_time": 1684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iris transition"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "3a00aecf-ab82-459e-91e1-f5467ba34bf7"
+    },
+    {
+      "start_time": 1686,
+      "end_time": 1693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Summer. Secrets--schemes--sacrifices for future happiness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "d433d66b-745e-44ed-95e7-b80b177f815c"
+    },
+    {
+      "start_time": 1694,
+      "end_time": 1697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iris transition"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "b09834be-2a7f-449e-8eb0-350230bdebcb"
+    },
+    {
+      "start_time": 1708,
+      "end_time": 1715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "PD: \"Everything you possess is listed on this bill of sale. All it needs is your signature.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "29d9e5e9-9f2a-489a-81ab-e5e25267cf8e"
+    },
+    {
+      "start_time": 1728,
+      "end_time": 1733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "PD: \"Does Armand know?\" [Alla Nazimova, mouthing: \"No, no\"]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "3dde57e8-147c-458b-a374-62e1bf89fb79"
+    },
+    {
+      "start_time": 1770,
+      "end_time": 1773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Flowers with card labeled \"Comte de Va Rudolph Valentinoille\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "517fc1d6-1057-4b87-9159-765cb0639cf1"
+    },
+    {
+      "start_time": 1785,
+      "end_time": 1772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comte de Varville"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "dba0e9cb-fbeb-450a-bff3-7884dfde4a21"
+    },
+    {
+      "start_time": 1795,
+      "end_time": 1801,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"Take them back to Paris, Prudence! They have no place in this house!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "7b9c5aca-1960-4179-a0ec-bcf4027cf494"
+    },
+    {
+      "start_time": 1805,
+      "end_time": 1812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "PD: \"Don't be a fool, Marguerite! You are sacrificing everything when the Count offers you luxury.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "52ee45b9-5209-40e2-9f05-c597463163b8"
+    },
+    {
+      "start_time": 1838,
+      "end_time": 1850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I Marguerite Gautier hereby authorize Prudence Duvernay to sell the following items..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "9b7490ca-dfe8-44f1-ad58-1fff2b41ca1f"
+    },
+    {
+      "start_time": 1909,
+      "end_time": 1914,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You are Marguerite Gautier? I am Armand Duval's father."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "f8b6dc6c-4916-4208-91d8-ed0664f5ccda"
+    },
+    {
+      "start_time": 1927,
+      "end_time": 1930,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"I--I am Marguerite Gautier.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "082a75b5-13ae-4835-8b42-a4b16f48ee00"
+    },
+    {
+      "start_time": 1964,
+      "end_time": 1978,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I find that my son is about to make over his mother's legacy to you. Why rob him of his inheritance when there are so many rich men in Paris?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "422ec58a-db8d-428c-9d08-c6d250af4172"
+    },
+    {
+      "start_time": 1981,
+      "end_time": 1988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"I do not know what you mean! I would not accept a penny from your son!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "a3dda6bd-b547-4157-985f-417b83fa475d"
+    },
+    {
+      "start_time": 1995,
+      "end_time": 2003,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"I am selling all I possess--there is no need for anxiety--I would do anything for Armand.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "58fea64f-d68b-4f74-849d-9401dcfe62a6"
+    },
+    {
+      "start_time": 2018,
+      "end_time": 2028,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then I ask you to give him up. I appeal to you as a father who seeks the happiness of both his children."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "b51d3a59-a129-4b3a-801d-1e6455c72393"
+    },
+    {
+      "start_time": 2031,
+      "end_time": 2035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have a daughter who is engaged to be married--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "c553e643-8712-4c06-94df-8c5ed1517dc4"
+    },
+    {
+      "start_time": 2038,
+      "end_time": 2041,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fade out/fade in (signals flashback)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "d0d4adb1-d88c-4fb1-8598-c353e055e994"
+    },
+    {
+      "start_time": 2050,
+      "end_time": 2065,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There has never been a scandal in our family. It will be impossible for me to marry your daughter, unless Armand's name is no longer linked with 'the Lady with the Camellias'!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "c399509f-9ca7-4f90-aa07-799ff1f4d45b"
+    },
+    {
+      "start_time": 2092,
+      "end_time": 2094,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fade out/fade in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "9d0698db-4631-402f-b639-f77663e6d097"
+    },
+    {
+      "start_time": 2098,
+      "end_time": 2104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Her life is just beginning--my daughter's happiness is in your hands."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "c8b7d949-8364-4578-acf0-4e2d1bddd58a"
+    },
+    {
+      "start_time": 2130,
+      "end_time": 2135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"I will go away until Armand's sister is married.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "1cf5bd1f-2643-409b-9995-ceaf1fccbfff"
+    },
+    {
+      "start_time": 2141,
+      "end_time": 2144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is not enough!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "89fa8333-179a-49ec-8801-69151a1c3292"
+    },
+    {
+      "start_time": 2169,
+      "end_time": 2179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"Do not ask me to give him up forever! He is my very life--I have not long to live!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "2d9a5065-06d3-49c6-b5de-4d8ad0a79e29"
+    },
+    {
+      "start_time": 2209,
+      "end_time": 2214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is no future for your love--you must give him up!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "8cfc0cb0-f610-4314-bcfc-e2ab952b5950"
+    },
+    {
+      "start_time": 2223,
+      "end_time": 2229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do not remind me of my past! I want to forget it!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "ac42560e-14b8-41c4-b51f-448a541fa64c"
+    },
+    {
+      "start_time": 2253,
+      "end_time": 2262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You cannot--you are chained to your past! Would you drag the man you love down into the mire?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "b3a40181-069c-45e7-9639-b2f856e4b44f"
+    },
+    {
+      "start_time": 2276,
+      "end_time": 2279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fade out/in (back to the story Manon from earlier)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "f34af277-d5d5-428b-ba11-95123c5e9c00"
+    },
+    {
+      "start_time": 2285,
+      "end_time": 2288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fade out/in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "d3d1f149-41fd-4718-9d61-52e1a831182c"
+    },
+    {
+      "start_time": 2296,
+      "end_time": 2299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Letter \"Comte de VaRudolph Valentinoille\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "44c74a1b-ffb0-44c6-b621-ef6c68da75da"
+    },
+    {
+      "start_time": 2317,
+      "end_time": 2325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"You are right! I must make him hate me! He must never want to see me again!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "d05dbae0-de96-46f1-8ac5-47262e7343b9"
+    },
+    {
+      "start_time": 2383,
+      "end_time": 2397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note from Marguerite and translation - \"Notre petite escapade est finie, Armand, je retoirne a Paris. Rentres chez toi et oublis. Marguerite / Our little escapade is over, Armand, I am returning to Paris-- Go home and forget! Marguerite"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "9da004f5-f8ba-4260-b3f0-75b98ba1255a"
+    },
+    {
+      "start_time": 2502,
+      "end_time": 2505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close up on camellias"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "6f648ed9-c3f0-478a-a72d-2f0b5b0ada5b"
+    },
+    {
+      "start_time": 2538,
+      "end_time": 2542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iris out"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "b34150eb-1485-4d4f-9875-dedc7e496233"
+    },
+    {
+      "start_time": 2544,
+      "end_time": 2550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At nightfall, Marguerite left for Paris."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "9357b78c-d8df-4ee3-a1f6-e5ee8d1ff667"
+    },
+    {
+      "start_time": 2658,
+      "end_time": 2664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marguerite's note - Our little escapade is over, Armand, I am returning to Paris-- Go home and forget! Marguerite"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "e4e0b62b-6d5f-4c12-b14a-af8a3c5939a2"
+    },
+    {
+      "start_time": 2710,
+      "end_time": 2714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iris out"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "6a596e05-277a-475f-926e-584423804e63"
+    },
+    {
+      "start_time": 2716,
+      "end_time": 2724,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Autumn. The Hazard d'Or, the smartest gaming place in Paris."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "cc5d9d5f-af96-4b33-b666-82258ab75765"
+    },
+    {
+      "start_time": 2724,
+      "end_time": 2729,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iris in to another Rambova set"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "314a5883-f928-4951-b3b3-a563e38f624f"
+    },
+    {
+      "start_time": 2750,
+      "end_time": 2762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Paris boasted a new Daughter of Chance, whose golden beauty bade fair to rival \"the Lady with the Camellias:. Olympe ...Consuelo Flowerton"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "aab3c11e-705a-4533-8702-3671d818ab21"
+    },
+    {
+      "start_time": 2781,
+      "end_time": 2791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He is only doing it so that Marguerite will hear of it! He has been like a madman for the past month."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "8d6d0df4-e46d-4e03-b2d3-404e55cb2399"
+    },
+    {
+      "start_time": 2827,
+      "end_time": 2830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Marguerite! Suppers--parties--she is drugging herself with excitement! She will kill herself! 00;46;37;03 00;46;44;04 00;00;07;00 Comment Dialogue Look at your broken-hearted lover!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "145737a2-c273-4245-b72a-ac0d148a2ca2"
+    },
+    {
+      "start_time": 2877,
+      "end_time": 2883,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"So we have both drifted back to the old life, Gaston!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "5337be7f-c9aa-46cd-b727-632857a7ff6c"
+    },
+    {
+      "start_time": 2890,
+      "end_time": 2899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am here only to watch Armand. Nichette and I are to be married on the last day of the year."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "be70df49-a31a-46ba-8a0f-250f18ee5bab"
+    },
+    {
+      "start_time": 2943,
+      "end_time": 2945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nazimova and Spider web set"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "900ba475-52b3-458e-ac93-5e9bce64a089"
+    },
+    {
+      "start_time": 2953,
+      "end_time": 2961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"If chance could be bought with gold--like a woman--you might be the winner, my dear Count!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "38e3b302-4498-44b8-90ac-21bb4712ba59"
+    },
+    {
+      "start_time": 2973,
+      "end_time": 2981,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is usually the provincial upstart who wins for the first time--and boasts of his luck!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "652a1403-259d-47e8-b4c2-2bdc50fc41fa"
+    },
+    {
+      "start_time": 3011,
+      "end_time": 3014,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have broken the bank!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "adb55acc-d64b-4153-b946-709754187359"
+    },
+    {
+      "start_time": 3047,
+      "end_time": 3049,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Valentino in spider web set"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "378d67bf-3265-44d7-b056-9662ae1a03c4"
+    },
+    {
+      "start_time": 3087,
+      "end_time": 3092,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"Why are you here Armand? I hoped you would leave Paris!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "40b1beaa-83f4-400f-89a0-9285cfe6d5ad"
+    },
+    {
+      "start_time": 3106,
+      "end_time": 3109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"I will--if you go with me!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "03cbac36-b011-4d49-8789-17de712f6c52"
+    },
+    {
+      "start_time": 3123,
+      "end_time": 3130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fade out/in out/in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "dd4bab9e-35ba-4814-9353-5e6236f3ca4d"
+    },
+    {
+      "start_time": 3131,
+      "end_time": 3134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"I must not! I promised--I promised!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "79c2ec51-543b-46ea-a8dc-f4d0447fe0f1"
+    },
+    {
+      "start_time": 3138,
+      "end_time": 3142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"You promised? The Count de VaRudolph Valentinoille?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "2758d4c6-0be9-478c-85f4-a62947c4cfd0"
+    },
+    {
+      "start_time": 3150,
+      "end_time": 3155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"Say that you love him and I will leave Paris forever!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "4c1306ff-bba4-4b20-b334-a7372240a22c"
+    },
+    {
+      "start_time": 3179,
+      "end_time": 3183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"I love--the Count de VaRudolph Valentinoille.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "cac14b1a-2107-4ae7-a7fe-227b71466e32"
+    },
+    {
+      "start_time": 3227,
+      "end_time": 3232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"You see that woman? Do you know what she has done?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "75445ac0-34f3-4dae-9c10-5812fee7fbc0"
+    },
+    {
+      "start_time": 3237,
+      "end_time": 3250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"Listen--all of you! I loved her more than life itself--but I was poor and could not pay! Her love was for sale--she left me!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "09986440-d8ab-48d5-a343-d3b82c1c27a0"
+    },
+    {
+      "start_time": 3273,
+      "end_time": 3279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"Bear witness that I pay her now--that I owe her nothing!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "caeff89c-8039-4e51-bb9f-083cc70d1897"
+    },
+    {
+      "start_time": 3305,
+      "end_time": 3306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Light leak damage, from projector?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Damage"
+        }
+      ],
+      "uuid": "2cc6aa7d-0574-45f9-8d50-916cd2b113cf"
+    },
+    {
+      "start_time": 3333,
+      "end_time": 3337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rudolph Valentino: \"I am through with you--and Paris, forever!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "c05bc73d-c140-46e9-b1a8-691150fcf0ad"
+    },
+    {
+      "start_time": 3400,
+      "end_time": 3404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iris"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "ae048610-c9c7-44dc-bd29-471d99a95550"
+    },
+    {
+      "start_time": 3406,
+      "end_time": 3413,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Winter. With the last day of the dying year."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "29da3c65-80c0-471c-9a20-1720cf01326c"
+    },
+    {
+      "start_time": 3415,
+      "end_time": 3419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iris"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "a5e3294b-4aec-4398-b74a-694ccfaf87cf"
+    },
+    {
+      "start_time": 3472,
+      "end_time": 3476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bell vignette"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "5c9f4691-fdd9-4903-a9e3-e8706cb50e6b"
+    },
+    {
+      "start_time": 3481,
+      "end_time": 3488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"It is the last day of December--the wedding day of Gaston and Nichette.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "7129a8a5-60c3-4505-b9ce-05d8ab765ade"
+    },
+    {
+      "start_time": 3495,
+      "end_time": 3500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"And to think that I am too ill to be there!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "c7317d72-f0ae-428f-ab53-edc883b53bcb"
+    },
+    {
+      "start_time": 3508,
+      "end_time": 3509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Possible projector damage"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Damage"
+        }
+      ],
+      "uuid": "212a197d-1de5-4188-8abb-53fc176c20c9"
+    },
+    {
+      "start_time": 3542,
+      "end_time": 3544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She is very ill."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "e960fe01-d825-4d6c-a722-b05bb5743e16"
+    },
+    {
+      "start_time": 3550,
+      "end_time": 3557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The court has ordered an immediate auction to satisfy the demands of creditors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "408c1d3c-aec5-4bb0-b11a-f6e04819feff"
+    },
+    {
+      "start_time": 3600,
+      "end_time": 3606,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"I know they have come--what does it matter? It is the end.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "62f5d5aa-c6d4-4d82-9f45-d371b45f249d"
+    },
+    {
+      "start_time": 3631,
+      "end_time": 3635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marguerite's letter in French - \"Tout ce que je possede doit etre vendu pour payer mes creamciers, a l'exeption d'un volume de Manor Lescaut. C'est le seul cadeau que j'ai recu d'Armand. Donney le lui, et quand je ne serai plus dites lui combieu je l'aimac Marguerite Gautier"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "17affd76-d4c5-4f34-9b77-9790499fe692"
+    },
+    {
+      "start_time": 3636,
+      "end_time": 3654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the letter in English - \"All my possesions are to be sold to pay my creditors, with the exception of a volume of Manon Lescaut-- the only gift I ever recieved from Armand. When I am gone, give it to him--and tell him how much I loved him. Marguerite Gautier"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "6f457f12-9009-4309-9063-8228d945876a"
+    },
+    {
+      "start_time": 3744,
+      "end_time": 3747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your jewels, Madame?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "d56a4062-8bb9-40d7-b2aa-4564dae459e1"
+    },
+    {
+      "start_time": 3754,
+      "end_time": 3758,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"It is the most precious thing I possess!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "827fe495-59eb-4254-9197-3ee1f819f953"
+    },
+    {
+      "start_time": 3766,
+      "end_time": 3767,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Light damage"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Damage"
+        }
+      ],
+      "uuid": "65bc7385-993f-426b-9eee-d1d2c3e3178f"
+    },
+    {
+      "start_time": 3784,
+      "end_time": 3786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Book cover - Manon Lescaut"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a1ad067d-30f9-4cde-853f-6123ce64b3c5"
+    },
+    {
+      "start_time": 3835,
+      "end_time": 3844,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Inscription - \"Marguerite a Armand, Amour\" / Translation \"Marguerite to Armand, Love\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "3616e991-4716-4a65-93d3-f90fcff8cfc2"
+    },
+    {
+      "start_time": 3847,
+      "end_time": 3848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Light damage"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Damge"
+        }
+      ],
+      "uuid": "d0b2bf4c-36fe-4569-b1af-a768dcf38132"
+    },
+    {
+      "start_time": 3893,
+      "end_time": 3896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bell vignette and dissolve to flashback"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "8578436b-dd1d-4e7f-9baa-843d0eec470d"
+    },
+    {
+      "start_time": 3976,
+      "end_time": 3979,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She is in delirium."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "5c7d5489-24ad-46a5-be42-3100045ce5a3"
+    },
+    {
+      "start_time": 3990,
+      "end_time": 3993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blur effect to indicate Marguerite's health decline/\"delirium\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "7f6949de-591b-4a5a-a8fe-e4b2ad8ede73"
+    },
+    {
+      "start_time": 3997,
+      "end_time": 4000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gaston and Nichette slowly come into focus"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "7cc5a3ef-5486-4b02-b3a2-f4f9afacd2ec"
+    },
+    {
+      "start_time": 4019,
+      "end_time": 4027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"Do not weep, Gaston, the world will lose nothing. I was a useless ornament--a plaything--a momentary aurora.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "d421724c-057a-46ef-912b-35aca58b2ded"
+    },
+    {
+      "start_time": 4050,
+      "end_time": 4051,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"Armand.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "e46fd114-8b32-4769-b8dd-d7223de42822"
+    },
+    {
+      "start_time": 4079,
+      "end_time": 4081,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Slow dissolve to flashback"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "6f8d8b02-22d6-42d9-be90-22878b2fb9e5"
+    },
+    {
+      "start_time": 4099,
+      "end_time": 4108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Armand and Marguerite memory slowly blurs and dissolves back to present"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "8d803ee4-998c-4e61-b36c-f66c5ef5d517"
+    },
+    {
+      "start_time": 4121,
+      "end_time": 4122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mold or mildew on film stock"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Damage"
+        }
+      ],
+      "uuid": "76ead3ca-6d03-489b-aa53-420d4a235b23"
+    },
+    {
+      "start_time": 4132,
+      "end_time": 4136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alla Nazimova: \"Let me sleep--let me dream--I am happy.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcript",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "c3252f95-9088-45ea-b5ef-c23b1046115c"
+    },
+    {
+      "start_time": 4158,
+      "end_time": 4164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Slow Iris in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Effects"
+        }
+      ],
+      "uuid": "4bcd60ab-3729-48c4-bd5e-9d4382f15860"
+    },
+    {
+      "start_time": 4165,
+      "end_time": 4170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "THE END."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitles"
+        }
+      ],
+      "uuid": "78451d96-a312-4997-91ff-871ead547012"
+    }
+  ],
   "set": "Default",
   "event_id": "b1a0a08c-2464-4560-88d4-f2af3f922ec3",
   "source_id": "fe2a3f09-658d-4e8e-ae32-f3131f376c1b"
