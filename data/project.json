@@ -54,10 +54,6 @@
           "tag": "Transcription"
         },
         {
-          "category": "Visual Elements",
-          "tag": "Damge"
-        },
-        {
           "category": "Textual Elements",
           "tag": "Intertitles"
         },
@@ -80,7 +76,7 @@
       ]
     },
     "created_at": "2024-11-22T19:29:49.192Z",
-    "updated_at": "2024-11-25T18:26:27.403Z",
+    "updated_at": "2024-11-25T18:26:30.382Z",
     "generate_pages_site": true
   },
   "is_private": false
